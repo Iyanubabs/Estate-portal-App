@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524597988967",
+    "project_id": "real-estate-portal-1aec9",
+    "storage_bucket": "real-estate-portal-1aec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524597988967:android:4b934a2a52aa1649ec0ec2",
+        "android_client_info": {
+          "package_name": "com.babs_dev.estate_portal_copy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524597988967-ur2rtgv4j5qh3uin0l3oqssmg27b54c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu2SyN5gQS_9L8fQGA4xN5O3HZX6M8Ba0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524597988967-ur2rtgv4j5qh3uin0l3oqssmg27b54c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
